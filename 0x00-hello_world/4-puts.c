@@ -5,10 +5,8 @@
  *
  * Return - always 0
  */
-
 int main(void)
 {
-	char str1[100] = "\"Programming is like building a multilingual puzzlei";
-	puts(str1);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
