@@ -1,2 +1,2 @@
 #!/bin/bash
-This repository is for my firste project about C 
+This repository is for my first project about C 
